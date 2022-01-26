@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "910947552150",
+    "firebase_url": "https://fundoonotes-fe66b-default-rtdb.firebaseio.com",
+    "project_id": "fundoonotes-fe66b",
+    "storage_bucket": "fundoonotes-fe66b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910947552150:android:3d2f0a279a86ca1a24ebb7",
+        "android_client_info": {
+          "package_name": "com.fundoonotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910947552150-s0jj5e496to069no308e2v0ad0lahc32.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fundoonotes",
+            "certificate_hash": "dba0e9bb3a96bdb2d043f431f3541b25ac952d4b"
+          }
+        },
+        {
+          "client_id": "910947552150-vf68vq2e35nnou5fgnpcorj1fes5emoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFLUNZzxGNaH8htFJLE0-DsKEkBfCNLd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910947552150-vf68vq2e35nnou5fgnpcorj1fes5emoh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
